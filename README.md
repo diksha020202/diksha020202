@@ -6,6 +6,7 @@
 - 📫 How to reach me: diksdelhi0202@gmail.com
 
 -🔭 Tech Stack
+
     1. ReactJs
     2. React-redux,thunk
     3. Html5
