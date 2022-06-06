@@ -13,7 +13,7 @@
 <h2>Connect With Me:</h2>
 
 <a href='https://www.linkedin.com/in/diksha-sharma-a1211b18b/'><img height="35px" src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg'/></a>
-<a href='https://www.instagram.com/twinkle6222/'><img height="35px" src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg'/></a>
+
 
 <h2>Languages and tools:</h2>  
 <div display='flex'>
