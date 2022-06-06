@@ -24,8 +24,7 @@
     5. Styles Components
     
     
-Languages and Tools:
-aws babel bash bootstrap css3 cypress express firebase git heroku html5 javascript jest linux mongodb nodejs photoshop postman python react redux tailwind typescript
+[![trophy](https://github-profile-trophy.vercel.app/?username=diksha020202)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 diksha020202/diksha020202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
