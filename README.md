@@ -10,6 +10,12 @@
                       LinkeDin  - https://www.linkedin.com/in/diksha-sharma-a1211b18b/
 - My Portfolio : https://diksha-sharma-portfolio.vercel.app 
 
+
+<h2>Connect With Me:</h2>
+
+<a href='https://www.linkedin.com/in/diksha-sharma-a1211b18b/'><img height="35px" src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg'/></a>
+<a href='https://www.instagram.com/twinkle6222/'><img height="35px" src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg'/></a>
+
 Languages and tools:  
 <div display='flex'>
 
@@ -26,6 +32,8 @@ Languages and tools:
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diksha020202&show_icons=true&theme=tokyonight)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diksha020202&show_icons=true&theme=tokyonight)
+
+
 
    
     
