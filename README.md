@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Diksha Sharma from Delhi, India.
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=diksha020202)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 👀 I’m a coding enthusiast, learning Full Stack Web Development Coarse from Masai School. 
 - 🌱 I’m currently learning ReactJS, React-Redux, React-Thunk.
 - 💞️ Frontend Web Developer
