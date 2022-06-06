@@ -23,6 +23,10 @@ Languages and tools:
 <a href='https://getbootstrap.com/'><img height="40px" src='https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png'></a>
 </div>
 
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diksha020202&show_icons=true&theme=tokyonight)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diksha020202&show_icons=true&theme=tokyonight)
+
    
     
 
