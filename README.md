@@ -8,9 +8,7 @@
                       LinkeDin  - https://www.linkedin.com/in/diksha-sharma-a1211b18b/
 - My Portfolio : https://diksha-sharma-portfolio.vercel.app 
 
--🔭 Tech Stack
-
-    <div display='flex'>
+-🔭 Tech Stack - <div display='flex'>
 
 <a hrf='https://www.w3schools.com/css/'><img height="40px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg'/></a>
 <a hrf='https://html.com/'><img height="40px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg'/></a>
@@ -21,6 +19,8 @@
 <a href='https://chakra-ui.com/'><img height="40px" src='https://chakra-ui.com/_next/image?url=%2Favatars%2F188034.jpg&w=64&q=75'></a>
 <a href='https://getbootstrap.com/'><img height="40px" src='https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png'></a>
 </div>
+
+   
     
 -🔭 Liberaries
 
