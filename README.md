@@ -10,7 +10,8 @@
                       LinkeDin  - https://www.linkedin.com/in/diksha-sharma-a1211b18b/
 - My Portfolio : https://diksha-sharma-portfolio.vercel.app 
 
--🔭 Tech Stack - <div display='flex'>
+Languages and tools:  
+<div display='flex'>
 
 <a hrf='https://www.w3schools.com/css/'><img height="40px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg'/></a>
 <a hrf='https://html.com/'><img height="40px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg'/></a>
@@ -23,15 +24,6 @@
 </div>
 
    
-    
--🔭 Liberaries
-
-    1. Chakra UI
-    3. Bootstrap
-    3. Material UI
-    4. React
-    5. Styles Components
-    
     
 
 
