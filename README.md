@@ -5,7 +5,7 @@
 - 👀 I’m a coding enthusiast
 - 🌱 I’m currently learning ReactJS, React-Redux, React-Thunk.
 - 💞️ Frontend Web Developer
-     A Passionate aspiring Frontend Developer moulded and shaped by Masai school's intensive and immensive learning. Looking forward to join a company where I can contribute towards individual and company growth.
+     A Passionate aspiring Frontend Developer. Looking forward to join a company where I can contribute towards individual and company growth.
 - 📫 How to reach me: Email     - diksdelhi0202@gmail.com               
 - My Portfolio : https://diksha-sharma-portfolio.vercel.app 
 
