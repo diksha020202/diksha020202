@@ -2,7 +2,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=diksha020202)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 👀 I’m a coding enthusiast, learning Full Stack Web Development Coarse from Masai School. 
+- 👀 I’m a coding enthusiast
 - 🌱 I’m currently learning ReactJS, React-Redux, React-Thunk.
 - 💞️ Frontend Web Developer
      A Passionate aspiring Frontend Developer moulded and shaped by Masai school's intensive and immensive learning. Looking forward to join a company where I can contribute towards individual and company growth.
